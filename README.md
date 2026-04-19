@@ -4,6 +4,6 @@
 
 ###
 
-<p align="center">Access my projects at [Codeberg](https://codeberg.org/darrkenn)</p>
+<p align="center">Access my projects at https://codeberg.org/darrkenn</p>
 
 ###
