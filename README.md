@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">I no longer use Github for my projects</h1>
+<h1 align="center">I no longer use Githubs</h1>
 
 ###
 
